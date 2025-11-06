@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Usman Khan
+# 👋 Hey, I'm Usman 
 
 💻 CS & Math @ UTA (Honors) | 🧠 AI & Systems Builder  
 📍 Arlington, TX | [🌐 usman.bio](https://usman.bio) | ✉️ [usmankhan.06@outlook.com](mailto:usmankhan.06@outlook.com)
@@ -22,13 +22,27 @@
 
 ---
 
-### 🧠 Featured Project — [MindFlow](https://github.com/usmank06/MindFlow)
+### 🚀 Featured Project — [Cognivo](https://github.com/usmank06/Cognivo)
 
-An **AI-powered mind mapping** application that helps you explore and organize ideas through interactive conversations with LLMs.
+**Cognivo** is an **AI-powered data visualization platform** that transforms spreadsheets into intelligent, interactive dashboards using Claude AI.
 
-- 🪄 AI-Powered Chat (Gemini / OpenAI)  
-- 🧭 Interactive Mind Mapping  
-- 📝 Markdown + Hierarchical Notes  
-- 🪶 Modern UI + Drag & Drop Layout
+- 🤖 **AI-Powered Analysis** — Claude interprets data and detects relationships  
+- 📊 **Auto-Generated Dashboards** — Creates 10–15+ diverse visualizations instantly  
+- 🎨 **Interactive Canvas** — Drag, drop, and rearrange charts freely  
+- 💬 **AI Chat Assistant** — Ask questions about your data in natural language  
+- 📁 **Multi-Format Support** — Works with CSV and Excel files  
+- 💾 **Persistent Storage** — Saves canvases and data automatically  
 
-*I've got better projects, unfortunetly none on GitHub at the moment, adding more soon!*
+🛠 **Tech Stack:** React, TypeScript, Vite, FastAPI, Express, MongoDB, GridFS, Claude AI  
+🎨 **Theme:** Orange & White minimalism — Figma meets Tableau, powered by AI  
+
+### 🧩 Another Project — [MindFlow](https://github.com/usmank06/MindFlow)
+
+**MindFlow** is an **AI-driven mind mapping** application for brainstorming and organizing ideas through natural conversations.
+
+- 🪄 **AI Chat Integration** — Powered by Gemini / OpenAI  
+- 🧭 **Interactive Mind Maps** — Visualize thought processes dynamically  
+- 📝 **Markdown & Hierarchical Notes** — Structure your ideas efficiently  
+- 🪶 **Modern, Minimal Interface** — Fast, lightweight, and intuitive  
+
+---
