@@ -1,8 +1,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00AEEF?style=for-the-badge)](https://www.linkedin.com/in/usmankhan06)&nbsp;&nbsp;&nbsp;[![Website](https://img.shields.io/badge/usmankhan.io-Visit-00AEEF?style=for-the-badge)](https://usmankhan.io)&nbsp;&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-Contact-00AEEF?style=for-the-badge)](mailto:hello@usmankhan.io)
 
-Hi — I’m Usman.
+Hi, I’m Usman.
 
-I’m a CS + Math student at UT Arlington focused on building and operating production-grade software systems, with an emphasis on backend engineering, infrastructure, and internal tooling.
+I’m a CS + Math student at UT Arlington focused on building and operating production grade software systems, with an emphasis on backend engineering, infrastructure, and internal tooling.
 
 I enjoy working on systems that handle real users, real data, and real constraints, reliability, performance, and maintainability matter to me more than demos.
 
