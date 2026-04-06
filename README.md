@@ -13,6 +13,8 @@ I enjoy working on systems that handle real users, real data, and real constrain
 - AI-enabled systems with practical, production-oriented use cases
 
 ### Selected projects
+- **Earnify** — AI earnings prediction dashboard for semiconductor stocks, combining FinBERT sentiment scoring, market momentum, and cross-company spillover signals into an XGBoost classifier with a live React frontend.
+  *Focus areas:* ML feature pipelines, NLP sentiment analysis, financial data ingestion, real-time dashboard design.
 - **Cognivo** — Data visualization platform that ingests CSV/Excel files and generates interactive dashboards using AI-assisted analysis.  
   *Focus areas:* API design, async processing, data pipelines, state persistence.
 
