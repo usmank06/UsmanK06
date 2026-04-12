@@ -17,9 +17,9 @@ I enjoy working on systems that handle real users, real data, and real constrain
   *Focus areas:* ML feature pipelines, NLP sentiment analysis, financial data ingestion, real-time dashboard design.
 - **Cognivo** — Data visualization platform that ingests CSV/Excel files and generates interactive dashboards using AI-assisted analysis.  
   *Focus areas:* API design, async processing, data pipelines, state persistence.
-
 - **MindFlow** — Conversational mind-mapping tool for structuring ideas and knowledge.  
   *Focus areas:* real-time state management, graph modeling, AI orchestration.
+- **CommitSync** - Transfer the Github commit heatmap from one account to another
 
 I’m currently interested in roles where I can own a scoped system end-to-end — from design and implementation to deployment and operation.
 
