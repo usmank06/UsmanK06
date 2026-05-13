@@ -20,6 +20,7 @@ I enjoy working on systems that handle real users, real data, and real constrain
 - **MindFlow** — Conversational mind-mapping tool for structuring ideas and knowledge.  
   *Focus areas:* real-time state management, graph modeling, AI orchestration.
 - **CommitSync** - Transfer the Github commit heatmap from one account to another
+- **LumaDiscover** - A better search for events on Luma, small personal use project
 
 I’m currently interested in roles where I can own a scoped system end-to-end — from design and implementation to deployment and operation.
 
